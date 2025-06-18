@@ -148,3 +148,7 @@ o Link or preview of the image
 • Use Google Firebase or Imgur API to upload and store images.
 • • Add face recognition using OpenCV (advanced).
 • • Integrate with Telegram bot or WhatsApp alerts
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0251ccd4-6e61-429f-bf0f-137e968c0a8e)
